@@ -1,0 +1,14 @@
+.title {
+    color: #fff;
+    background: url('/images/pattern.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.imagem {
+    display:block;
+    text-align: center;
+    margin: 30px auto;
+}
